@@ -9,7 +9,7 @@
         }
     ],
     "replace": {
-        "sylvainjule/kirby-colorextractor": "^1.0.3"
+        "sylvainjule/kirby-colorextractor": "1.0.3"
     },
     "extra": {
         "installer-name": "colorextractor"
