@@ -1,16 +1,15 @@
 {
-    "name": "sylvainjule/colorextractor",
+    "name": "nikkue/kirby-colorextractor",
     "description": "Extract dominant / average color from any image.",
     "type": "kirby-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sylvain Julé",
-            "email": "contact@sylvain-jule.fr"
+            "name": "nikkuexe"
         }
     ],
-    "require": {
-        "getkirby/composer-installer": "^1.1"
+    "replace": {
+        "sylvainjule/kirby-colorextractor": "^1.0.3"
     },
     "extra": {
         "installer-name": "colorextractor"
