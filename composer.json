@@ -11,6 +11,9 @@
     "replace": {
         "sylvainjule/kirby-colorextractor": "1.0.3"
     },
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
     "extra": {
         "installer-name": "colorextractor"
     },
